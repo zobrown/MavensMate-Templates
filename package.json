@@ -10,7 +10,17 @@
                     "name":"api_name",
                     "description":"Apex Class API Name",
                     "default":"MyApexClass"
-                }
+                },
+                {  
+                    "name":"author_name",
+                    "description":"Author of the file",
+                    "default":"Zo Brown"
+                },
+                {  
+                    "name":"todays_date",
+                    "description":"Today's Date",
+                    "default":"01/01/2010"
+                },
             ]
         },
         {  
