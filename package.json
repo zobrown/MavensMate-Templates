@@ -18,7 +18,7 @@
                 },
                 {  
                     "name":"todays_date",
-                    "description":"Today's Date",
+                    "description":"Todays Date",
                     "default":"01/01/2010"
                 },
             ]
