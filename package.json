@@ -20,7 +20,7 @@
                     "name":"todays_date",
                     "description":"Todays Date",
                     "default":"01/01/2010"
-                },
+                }
             ]
         },
         {  
